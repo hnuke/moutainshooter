@@ -1,3 +1,4 @@
+import pygame
 import pygame.display
 
 from code.Entity import Entity
