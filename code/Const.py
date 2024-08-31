@@ -51,6 +51,7 @@ ENTITY_SHOT_DELAY = {
     'Enemy2': 200,
 }
 
+
 # M
 MENU_OPTION = ('NEW GAME 1P',
                'NEW GAME 2P - COOPERATIVE',
